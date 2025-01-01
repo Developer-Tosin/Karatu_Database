@@ -94,8 +94,4 @@ By completing this project, you will strengthen your SQL skills, including:
 
 Contributions are welcome! Feel free to submit pull requests or suggest improvements.
 
----
 
-## 📧 Contact
-
-For questions or feedback, please reach out at [your.email@example.com].
